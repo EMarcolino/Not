@@ -196,31 +196,30 @@ button:hover{
 }
 #txt1{
     width: 60%;
-    font-size: 0.9em;
-    color: #808080;
+    color: black;
     font-family: 'Raleway', sans-serif;
     line-height: 25px;
 }
 #txt2{
-    font-size: 1.1em;
+    
     font-weight: bold;
-    color: #000000 !important;
-    font-family: 'Montserrat', sans-serif !important;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
 }
 #txt3{
-    font-size: 1.3em;
+
     font-weight: bold;
-    color: #000000 !important;
+    color: black;
     font-family: 'Montserrat', sans-serif;
 }
 #txt4{
     font-size: 0.9em;
-    color: #808080;
+    color: black;
     font-family: 'Montserrat', sans-serif;
     line-height: 25px;
 }
 
-/* NAVFOOTER */
+
 #nav_footer{
     background-color: #e3e3e3;
     display: flex;
@@ -295,8 +294,8 @@ button:hover{
         height: 600px;
     }
     #header_titles_links{
-        width: 80%;
-        height: 45%;
+        width: 70%;
+        height: 50%;
         justify-content: flex-start;
     }
     header p{
@@ -308,7 +307,7 @@ button:hover{
         justify-content: space-evenly;
     }
     .card{
-        width: 80%;
+        width: 70%;
     }
     
     .section2{
@@ -323,7 +322,7 @@ button:hover{
     /* ---TEXT */
     .section2 span{
         width: 80%;
-        height: 42%;
+        height: 45%;
         margin: 0 0 5% 0;
     }
     .sec2_h2{
@@ -340,13 +339,13 @@ button:hover{
         margin: 0;
     }
     input{
-        width: 67%;
+        width: 65%;
         padding: 0 0 0 3%;
     }
     button{
         width: 30%;
     }
-    /* FOOTER */
+    
     #footer1{
         height: 800px;
         justify-content: center;
@@ -366,7 +365,7 @@ button:hover{
         margin: 5px;
         border-radius: 20%;
     }
-    /* NAVFOOTER */
+    
     #nav_footer{
         height: 120px;
     }
